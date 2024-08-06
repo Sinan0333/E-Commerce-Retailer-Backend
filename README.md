@@ -32,7 +32,7 @@ This is a RESTful API for managing an e-commerce retailer database. The API allo
     Create a `.env` file in the root of the project and add the following:
 
     ```plaintext
-    MONGO_URL="Add your url"
+    MONGO_URL= Add your url
     ```
 
 4. Start the server:
