@@ -17,7 +17,7 @@ This is a RESTful API for managing an e-commerce retailer database. The API allo
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/e-commerce-retailer.git
+    git clone link
     cd e-commerce-retailer
     ```
 
@@ -32,7 +32,7 @@ This is a RESTful API for managing an e-commerce retailer database. The API allo
     Create a `.env` file in the root of the project and add the following:
 
     ```plaintext
-    MONGO_URL=mongodb://127.0.0.1:27017/E-Commerce-Retailer
+    MONGO_URL="Add your url"
     ```
 
 4. Start the server:
